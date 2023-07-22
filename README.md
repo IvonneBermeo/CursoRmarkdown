@@ -21,4 +21,8 @@ Esta **palabra** esta en negrita. Esta es otra forma de poner **negrita**. La *c
 
 Necesito tres ***asteriscos para que este en negrita y cursiva a la vez***
 
+#Insertamos una imagen
 
+![](Imagenes/Logo_LIDE.png)
+
+![](Imagenes/foto.png)
