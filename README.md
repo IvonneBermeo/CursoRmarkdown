@@ -26,3 +26,6 @@ Necesito tres ***asteriscos para que este en negrita y cursiva a la vez***
 ![](Imagenes/Logo_LIDE.png)
 
 ![](Imagenes/foto.png)
+
+La página web de New Dimensions es <https://newdimensions.academy/>\
+También puedes ingresar haciendo clic [aquí](https://newdimensions.academy/).
